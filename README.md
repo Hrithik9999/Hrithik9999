@@ -17,7 +17,7 @@ Talking about my education details I have completed my B.Tech in Electronics and
 I am good in frontend and backend technology. I worked on frontend technical stack Like  HTML, CSS, Javascript, React, Redux and used external css library like chakra-UI , Bootstrap, Material-Ui and I am familiar with backend Technologies like Python, Java, SpringBoot, Node.js, Express.js, NoSql, OracleDB,  Mongodb database. I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
 <br>
 
-<img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
+<img src="https://camo.githubusercontent.com/fb66fbe0576d08d36d12af05ed850eea4a2bf9a7302a280ec599095d4840cd3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313031393836342f73637265656e73686f74732f333037393039392f6d656469612f39653530353564613265653663383939616162393430336365623764306463332e676966" width="300" height="280" align="right" />
 
 
 - 🔭 I’m currently working on MERN Stack
