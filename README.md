@@ -30,7 +30,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank">RESUME</a></b>
 
-- ⚡ Fun fact - I am creative person and I love swiming!
+- ⚡ Fun fact - I am creative person and I love to Sing when I am playing my guitar!
 
 <br>
 <!-----------------------------------------------technical tools---------------------------------------->
@@ -109,7 +109,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 <hr />
 
-<!------------------------------------- githuib status part -------------------------------->
+<!------------------------------------- github status part -------------------------------->
 
 
 <h3 align="left> 📊 My Github Stats</h3>
