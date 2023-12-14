@@ -63,7 +63,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 <img src="https://img.shields.io/badge/mongoose-%2300f.svg?style=for-the-badge&logo=fastify&logoColor=white" align="center" alt="mongoose"/>
 <img src="https://img.shields.io/badge/rest api-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white" align="center" alt="restapi"/>
  </div>
- 
+                                                                         
      
  <div align="center"><h3 align="center">Tools</h3> 
   <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" align="center" alt="git"/>
@@ -82,14 +82,14 @@ I am good in frontend and backend technology. I worked on frontend technical sta
     <a href="https://www.hackerrank.com/priyankaphulman1">
     <img align="center" alt="priyanka's Hackerrank" width="100px" src="https://cdn.icon-icons.com/icons2/2530/PNG/512/hackerrank_button_icon_151894.png" /></a>
 </div>
-  <br/>
+  <br/>                                                                   
 
 <!----------------------------------- Social Media Links Section ------------------------------------>
 <div align="center">
 <h2><i> Let's Connect</i></h2>
 <p align="center">
     <a href="https://www.linkedin.com/in/hrithik-rajput-a1283b1ab/">
-        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/priyanka-phulmante-181633191/" />
+        <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/hrithik-rajput-a1283b1ab/" />
     </a>
     <a href="https://twitter.com/priyankaphulma1">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/priyankaphulma1" />
