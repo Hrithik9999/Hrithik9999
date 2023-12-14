@@ -4,7 +4,7 @@
 <h1 align="center">
     Hi
     <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Priyanka phulmante
+    I'm Hrithik Rajput
     <h3 align="center">A passionate Web Developer from India</h3>
 </h1> 
 
@@ -12,9 +12,9 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>Hi, My name is Priyanka Phulmante. I’m from Pune, Maharashtra. I am working as Frontend Developer at Fundflo, Banglore.
-talking about my education Details I have completed my post graduation (MBA/PGDM) in Inforamtion Technology from MIT School Of Managment Pune and I have  completed my graduation Bachelor in computer science from Dayanand Science College, Latur. and also i have I done  full-stack web development course at Masai School, bengalore.
-I am good in frontend and backend technology. I worked on frontend technical stack Like  html css javascript, react, redux and angular.js, typescript and used external css library like chakra-UI , Bootstrap, Material-Ui and I familiar with  backend Technologies like Node.js, Express.js and NoSql mongodb database I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
+<p>Hi, My name is Hrithik Rajput. I’m from Dhanbad, Jharkhand. I am working as a Software Developer at Aarav Ed Tech, Banglore.
+Talking about my education details I have completed my B.Tech in Electronics and Communication Engineering from Techno India University, Kolkata and have completed my full-stack web development training from Hexaware Technologies, Chennai.
+I am good in frontend and backend technology. I worked on frontend technical stack Like  HTML, CSS, Javascript, React, Redux and used external css library like chakra-UI , Bootstrap, Material-Ui and I am familiar with backend Technologies like Python, Java, SpringBoot, Node.js, Express.js, NoSql, OracleDB,  Mongodb database. I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
 <br>
 
 <img src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif" width="300" height="280" align="right" />
@@ -26,7 +26,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 💬 Ask me about MERN stack
 
-- 📫 How to reach me <b>priyankaphulmante98@gmail.com</b>
+- 📫 How to reach me <b>rajputhrithik9@gmail.com</b>
 
 - 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank">RESUME</a></b>
 
@@ -88,15 +88,15 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 <div align="center">
 <h2><i> Let's Connect</i></h2>
 <p align="center">
-    <a href="https://www.linkedin.com/in/priyanka-phulmante-181633191/">
+    <a href="https://www.linkedin.com/in/hrithik-rajput-a1283b1ab/">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/priyanka-phulmante-181633191/" />
     </a>
     <a href="https://twitter.com/priyankaphulma1">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/priyankaphulma1" />
     </a>
-    <a title="priyankaphulmante98@gmail.com" href="priyankaphulmante98@gmail.com">
+    <a title="rajputhrithik9@gmail.com" href="rajputhrithik9@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
-           alt="priyankaphulmante98@gmail.com"/>
+           alt="rajputhrithik9@gmail.com"/>
     </a>
     <a href="https://priyankaphulmante98.github.io/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
