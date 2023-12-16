@@ -30,7 +30,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank">RESUME</a></b>
 
-- ⚡ Fun fact - I am creative person and I love to Sing when I am playing my guitar!
+- ⚡ Fun fact - I am creative person and I love to Sing while I am playing my guitar!
 
 <br>
 <!-----------------------------------------------technical tools---------------------------------------->
@@ -112,47 +112,6 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 <!------------------------------------- github status part -------------------------------->
 
 
-<h3 align="left> 📊 My Github Stats</h3>
-<br/>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=priyankaphulmante98&label=Profile%20views&color=0e75b6&style=flat" alt="priyankaphulmante98" />
-<a href="https://github.com/priyankaphulmante98?tab=followers"><img src="https://img.shields.io/github/followers/priyankaphulmante98?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-  <br/>
-  
-
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyankaphulmante98&count_private=true&show_icons=true&include_all_commits=true&hide=issues,contribs&border_radius=0&locale=en" alt="priyankaphulmante98" height="139"/><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaphulmante98&layout=compact&border_radius=0" alt="priyankaphulmante98" height="139" />
-</p>
-
-<br/>
-
- <div align="left">
- <h3>ℹ️ &nbsp;Github Info</h3>
- <hr/>
- <!--     <p align="center">      
-  <a href="https://github.com/priyankaphulmante98/github-readme-stats"><img alt="priya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyankaphulmante98&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-      </p>       -->
-     <br/>
-   <p align="center">
-    <a href="https://github.com/priyankaphulmante98/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="priyankaphulmante98's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=priyankaphulmante98&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>                                                                                                                                              
-
-  <br/>
-     <p align="center" padding="1rem">                                                                                                 
-    <a href="https://github-stats-alpha.vercel.app/api?username=priyankaphulmante1998"><img alt="priyankaphulmante98's Github Stats" src="https://github-stats-alpha.vercel.app/api?username=priyankaphulmante98" /></a>
-    </p>                        
-
-<!-- 
-<p align="center"<a href="#"><img alt="Priyanka" src="https://activity-graph.herokuapp.com/graph?username=priyankaphulmante98&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p> -->
-
-<p align="center"> <a href="https://github.com/priyankaphulmante98"><img src="https://github-profile-trophy.vercel.app/?username=priyankaphulmante98&margin-w=5&theme=radical" alt="Priyanka" /></a> </p>
-
-
-
- </div>
 
 <!--------------------------------------------------------- thanks-part ------------------------------------------------------->
 
