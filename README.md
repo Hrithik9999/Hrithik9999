@@ -22,7 +22,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 🔭 I’m currently working on MERN Stack
 
-- 👨‍💻 All of my projects are available at <b><a href="https://priyankaphulmante98.github.io" target="_blank">PORTFOLIO</a></b>
+- 👨‍💻 All of my projects are available at <b><a href="" target="_blank">PORTFOLIO</a></b>
 
 - 💬 Ask me about MERN stack
 
