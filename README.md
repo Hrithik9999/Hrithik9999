@@ -28,7 +28,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 📫 How to reach me <b>rajputhrithik9@gmail.com</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1vI6wwJxEwUK43JkBsGT2K7tkeNgCr0jZ/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b><a href="" target="_blank">RESUME</a></b>
 
 - ⚡ Fun fact - I am creative person and I love to Sing while I am playing my guitar!
 
@@ -98,7 +98,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" 
            alt="rajputhrithik9@gmail.com"/>
     </a>
-    <a href="/"><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
+    <a href=""><img align="center" src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" 
           alt="portfolio"/>
     </a>
 <a href="" target="_blank"><img align="center" src="https://img.shields.io/badge/Resume-%2396060C.svg?style=for-the-badge&logo=packer&logoColor=white" alt="resume"/>
