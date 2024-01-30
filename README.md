@@ -4,7 +4,7 @@
 <h1 align="center">
     Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
     
-    I'm Hrithik Rajput a passionate Web Developer from India</h3>
+    I'm Hrithik Rajput a passionate Web Developer from India
 </h1> 
 
 
