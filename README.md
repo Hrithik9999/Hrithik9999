@@ -11,8 +11,8 @@
 
 <!----------------------------------- About Section ---------------------------->
 
-<p>Hi, My name is Hrithik Rajput. I’m from Dhanbad, Jharkhand. I am working as a Software Developer at Aarav Ed Tech, Banglore.
-Talking about my education details I have completed my B.Tech in Electronics and Communication Engineering from Techno India University, Kolkata and have completed my full-stack web development training from Hexaware Technologies, Chennai.
+<p>Hi, My name is Hrithik Rajput. I’m from Dhanbad, Jharkhand. I am working as a Software Developer at Tech Narayana Software Pvt Ltd, Banglore.
+Talking about my education details I have completed my B.Tech in Electronics and Communication Engineering from Techno India University, Kolkata and have completed my full-stack web development training during my course duration.
 I am good in frontend and backend technology. I worked on frontend technical stack Like  HTML, CSS, Javascript, React, Redux and used external css library like chakra-UI , Bootstrap, Material-Ui and I am familiar with backend Technologies like Python, Java, SpringBoot, Node.js, Express.js, NoSql, OracleDB,  Mongodb database. I pushed myself into MERN stack development which is an amazing technology used worldwide nowadays, creating an efficient environment for developers and making faster and easier user experience. I focus on writing clean, elegant and efficient code.</p>
 <br>
 
