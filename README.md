@@ -1,4 +1,4 @@
-<!----------------------------------- Heading Section ------------------------------------>
+ok<!----------------------------------- Heading Section ------------------------------------>
 
 
 <h1 align="center">
@@ -27,7 +27,7 @@ I am good in frontend and backend technology. I worked on frontend technical sta
 
 - 📫 How to reach me <b>rajputhrithik9@gmail.com</b>
 
-- 📄 Know about my work also in my <b><a href="https://drive.google.com/file/d/1Ha-xNCmtzYTrnadEZ_bSGfEHOiVm3b6s/view?usp=sharing" target="_blank">RESUME</a></b>
+- 📄 Know about my work also in my <b>
 
 - ⚡ Fun fact - I am creative person and I love to Sing while I am playing my guitar!
 
